@@ -1,0 +1,107 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Lucida Sans";
+  background-color: #00376c;
+}
+
+header {
+  text-align: center;
+  background-color: #c7e3ff;
+  border-bottom: 6px solid #7b7b7b;
+  margin-bottom: 40px;
+  line-height: 80px;
+}
+
+footer {
+  text-align: center;
+  background-color: #c7e3ff;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+a {
+  background-color: #00376c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 150px;
+}
+
+h1 {
+  background-color: #c7e3ff;
+}
+
+h2 {
+  border-bottom: 2px solid #7b7b7b;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: 2px solid #1577ff;
+  display: inline;
+}
+
+#storytime {
+  background-color: #e7e7e7;
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+#cheese {
+  background-color: #e7e7e7;
+  font-style: italic;
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+#walkiewalkie {
+  background-color: #e7e7e7;
+  font-style: italic;
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+#making {
+  font-style: italic;
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+#vroom {
+  font-style: italic;
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+#eden {
+  color: #00376c;
+  font-family: "Lucida Sans";
+  font-size: 10px;
+  margin: 10px 20px;
+}
+
+.wine_tasting,
+.italy,
+.valet,
+.wine_making,
+.tours {
+  background-color: #e7e7e7;
+  padding: 10px 15px;
+  margin-bottom: 40px;
+}
